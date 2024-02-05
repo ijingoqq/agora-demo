@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 310468f085ef24732beac714c9bb64fd, type: 3}
+  m_Name: AppIdInput
+  m_EditorClassIdentifier: 
+  appID: d8b1a9d54c5c4684b9844157834bb42b
+  token: 007eJxTYIjTUH3t3GQoMee6/GZHWe3khK7guEN/NwTmSv7n+NzfGazAkGKRZJhomWJqkmyabGJmYZJkaWFiYmhqbmFskpRkYpSkobk/tSGQkeEHYyEDIxSC+GwMSYl5QMjAAADcIx20
+  channelName: banana
